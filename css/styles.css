@@ -21,3 +21,11 @@ p{
     letter-spacing: normal;
     line-height: normal;
 }
+
+.homepage-hero{
+    height: 240px;
+    text-align: center;
+    padding-top: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
