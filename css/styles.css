@@ -30,7 +30,7 @@ p{
     padding-right: 10px;
     background-color: antiquewhite;
     background-image: url("https://images.pexels.com/photos/1105766/pexels-photo-1105766.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
-    background-size: contain;
+    background-size: cover;
     background-attachment: fixed;
 }
 .main-container{
