@@ -28,4 +28,16 @@ p{
     padding-top: 100px;
     padding-left: 10px;
     padding-right: 10px;
+    background-color: antiquewhite;
+}
+.main-container{
+    width:800px;
+    margin:0 auto;
+    padding: 0 10px;
+}
+
+footer{
+    background-color: floralwhite;
+    text-align: center;
+    padding: 20px 0;
 }
