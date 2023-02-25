@@ -31,13 +31,13 @@ p{
     background-color: antiquewhite;
 }
 .main-container{
-    width:800px;
+    max-width:800px;
     margin:0 auto;
     padding: 0 10px;
 }
 
 footer{
-    background-color: floralwhite;
+    background-color: azure;
     text-align: center;
     padding: 20px 0;
 }
