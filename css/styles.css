@@ -29,10 +29,11 @@ p{
     padding-left: 10px;
     padding-right: 10px;
     background-color: antiquewhite;
+    background-image: url("https://www.pexels.com/photo/skyline-photo-of-empire-state-building-in-new-york-city-2190283/");
 }
 .main-container{
-    max-width:800px;
-    margin:0 auto;
+    max-width: 800px;
+    margin: 0 auto;
     padding: 0 10px;
 }
 
