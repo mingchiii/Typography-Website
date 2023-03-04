@@ -50,6 +50,6 @@ footer{
     display: flex;
 }
 
-.article-left img, .article-left img {
+.article-left img, .article-right img {
     width: 50%
 }
