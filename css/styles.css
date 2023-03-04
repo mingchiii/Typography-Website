@@ -48,12 +48,19 @@ footer{
 
 .article-left, .article-right{
     display: flex;
+    justify-content: space-between
 }
 
+.article{
+    margin: ;
+}
+.article-left div{
+    width:  40%;
+}
 .article-left{
     flex-direction: row;
 }
-.article-left{
+.article-right{
     flex-direction: row-reverse;
 }
 
