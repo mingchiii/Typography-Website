@@ -45,3 +45,11 @@ footer{
     text-align: center;
     padding: 20px 0;
 }
+
+.article-left, .article-right{
+    display: flex;
+}
+
+.article-left img, .article-left img {
+    width: 50%
+}
