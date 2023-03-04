@@ -48,12 +48,9 @@ footer{
 
 .article-left, .article-right{
     display: flex;
-    justify-content: space-between
+    justify-content: space-between;
 }
 
-.article{
-    margin: ;
-}
 .article-left div{
     width:  40%;
 }
