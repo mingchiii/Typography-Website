@@ -57,6 +57,9 @@ footer{
 .article-left div{
     width:  40%;
 }
+.article-right div{
+    width:  40%;
+}
 .article-left{
     flex-direction: row;
 }
